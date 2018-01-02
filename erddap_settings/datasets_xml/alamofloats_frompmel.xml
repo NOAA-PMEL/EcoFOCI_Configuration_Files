@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<erddapDatasets>
+
+<!--Alamo Floats - WHOI via pmel -->
+<dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9058" active="true">
+    <!-- NDBC Standard Meteorological Buoy Data -->
+    <sourceUrl>http://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9058</sourceUrl>
+</dataset>
+<dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9076" active="true">
+    <!-- NDBC Standard Meteorological Buoy Data -->
+    <sourceUrl>http://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9076</sourceUrl>
+</dataset>
+<dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9085" active="true">
+    <!-- NDBC Standard Meteorological Buoy Data -->
+    <sourceUrl>http://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9085</sourceUrl>
+</dataset>
+<dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9115" active="true">
+    <!-- NDBC Standard Meteorological Buoy Data -->
+    <sourceUrl>http://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9115</sourceUrl>
+</dataset>
+<dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9116" active="true">
+    <!-- NDBC Standard Meteorological Buoy Data -->
+    <sourceUrl>http://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9116</sourceUrl>
+</dataset>
+<dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9117" active="true">
+    <!-- NDBC Standard Meteorological Buoy Data -->
+    <sourceUrl>http://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9117</sourceUrl>
+</dataset>
+<dataset type="EDDTableFromErddap" datasetID="arctic_heat_alamo_profiles_9119" active="true">
+    <!-- NDBC Standard Meteorological Buoy Data -->
+    <sourceUrl>http://ferret.pmel.noaa.gov/alamo/erddap/tabledap/arctic_heat_alamo_profiles_9119</sourceUrl>
+</dataset>
+
+</erddapDatasets>
